@@ -1,0 +1,14 @@
+body {
+    background: paleturquoise;
+    color: purple
+}
+h1 {
+    color: olive;
+    border: 3px dotted purple
+}
+p {
+    font-family: "courier"
+}
+h2 {
+    border: 3px dotted olive
+}
